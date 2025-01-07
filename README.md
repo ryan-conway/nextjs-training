@@ -4,9 +4,9 @@ This repository is to track progress through the [Next.js training path](https:/
 
 ## React Foundations ([Next.js](https://nextjs.org/learn/react-foundations))
 
-- [ ] [About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
-- [ ] [Rendering User Interfaces](https://nextjs.org/learn/react-foundations/rendering-ui)
-- [ ] [Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
+- [x] [About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
+- [x] [Rendering User Interfaces](https://nextjs.org/learn/react-foundations/rendering-ui)
+- [x] [Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
 - [ ] [Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
 - [ ] [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
 - [ ] [Displaying Data with Props](https://nextjs.org/learn/react-foundations/displaying-data-with-props)
