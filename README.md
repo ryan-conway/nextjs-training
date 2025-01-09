@@ -11,8 +11,8 @@ This repository is to track progress through the [Next.js training path](https:/
 - [x] [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
 - [x] [Displaying Data with Props](https://nextjs.org/learn/react-foundations/displaying-data-with-props)
 - [x] [Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
-- [ ] [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
-- [ ] [Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
+- [x] [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
+- [x] [Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
 - [ ] [Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
 
 ## Next.js ([Next.js](https://nextjs.org/learn/dashboard-app))
