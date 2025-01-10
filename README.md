@@ -13,7 +13,7 @@ This repository is to track progress through the [Next.js training path](https:/
 - [x] [Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
 - [x] [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
 - [x] [Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
-- [ ] [Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
+- [x] [Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
 
 ## Next.js ([Next.js](https://nextjs.org/learn/dashboard-app))
 
