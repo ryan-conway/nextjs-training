@@ -4,16 +4,16 @@ This repository is to track progress through the [Next.js training path](https:/
 
 ## React Foundations ([Next.js](https://nextjs.org/learn/react-foundations))
 
-- [ ] [About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
-- [ ] [Rendering User Interfaces](https://nextjs.org/learn/react-foundations/rendering-ui)
-- [ ] [Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
-- [ ] [Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
-- [ ] [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
-- [ ] [Displaying Data with Props](https://nextjs.org/learn/react-foundations/displaying-data-with-props)
-- [ ] [Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
-- [ ] [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
-- [ ] [Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
-- [ ] [Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
+- [x] [About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
+- [x] [Rendering User Interfaces](https://nextjs.org/learn/react-foundations/rendering-ui)
+- [x] [Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
+- [x] [Getting Started with React](https://nextjs.org/learn/react-foundations/getting-started-with-react)
+- [x] [Building UI with Components](https://nextjs.org/learn/react-foundations/building-ui-with-components)
+- [x] [Displaying Data with Props](https://nextjs.org/learn/react-foundations/displaying-data-with-props)
+- [x] [Adding Interactivity with State](https://nextjs.org/learn/react-foundations/updating-state)
+- [x] [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
+- [x] [Installing Next.js](https://nextjs.org/learn/react-foundations/installation)
+- [x] [Server and Client Components](https://nextjs.org/learn/react-foundations/server-and-client-components)
 
 ## Next.js ([Next.js](https://nextjs.org/learn/dashboard-app))
 
