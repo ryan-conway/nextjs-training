@@ -17,9 +17,9 @@ This repository is to track progress through the [Next.js training path](https:/
 
 ## Next.js ([Next.js](https://nextjs.org/learn/dashboard-app))
 
-- [X] [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
-- [ ] [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
-- [ ] [Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
+- [x] [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
+- [x] [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
+- [x] [Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 - [ ] [Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
 - [ ] [Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 - [ ] [Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
